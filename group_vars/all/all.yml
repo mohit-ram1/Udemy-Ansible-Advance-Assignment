@@ -1,13 +1,13 @@
-#service_account_email: playable@fair-solution-173518.iam.gserviceaccount.com
+#service_account_email: playable@fair-solution-574588.iam.gserviceaccount.com
 #credentials_file: service_account.json
 #project_id: fair-solution-173518
 
-service_account_email: ansible@udemy-ansible-assignment.iam.gserviceaccount.com
-credentials_file: udemy-ansible-assignment-fb21ec2e17c4.json
+service_account_email: ansible@udemy-ansible-adv-assignment.iam.gserviceaccount.com
+credentials_file: udemy-ansible-adv-assignment-fb74ec4e46c4.json
 project_id: udemy-ansible-assignment
 
 machine_type: n1-standard-1
-image: debian-7
+image: debian-10
 instance_list:
   - web-server-1,web-server-2
   - db-server
@@ -19,5 +19,5 @@ db_name: employee_db
 db_user: db_user
 db_user_password: Passw0rd
 
-ansible_user: testuser17123
+ansible_user: mohit ram
 ansible_ssh_private_key_file: ~/.ssh/google_compute_engine

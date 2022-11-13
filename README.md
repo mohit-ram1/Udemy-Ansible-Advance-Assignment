@@ -6,7 +6,7 @@ Below is my solution to the problem.
 
 ### Infrastructure 
  
-I chose Google Cloud Platform .
+I have choosed Google Cloud Platform .
 
 ### Development Environment
 

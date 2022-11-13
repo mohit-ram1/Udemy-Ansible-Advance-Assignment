@@ -32,7 +32,7 @@ Group Variables to have following properties:
 - **db_user:** Database user to create
 - **db_password:** Password for the Database user
 - **machine_type:** Type of machine to deploy eg: n1-standard-1  
-- **image:** Image of instance to deploy debian-7
+- **image:** Image of instance to deploy debian-10
 - **instance_list:** An array containing list of servers to deploy
     
          - web-server-1,web-server-2
